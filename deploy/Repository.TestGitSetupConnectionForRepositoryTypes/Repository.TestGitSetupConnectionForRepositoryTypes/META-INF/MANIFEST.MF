@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Repository.TestGitSetupConnectionForRepositoryTy
  pes
-Build-Date: 2020-08-07T18:07:33.63+03:00
-Build-Number: 708766fc541c79f38b3497ec05b5b3c68f4b3b54
+Build-Date: 2020-08-10T18:57:20.016+03:00
+Build-Number: 8ec49c6ada46809ebae921cd4fdff4f4fcef1ae1
 Built-By: admin
 Branch-Name: master
-Created-By: OpenL WebStudio v.5.24.0-SNAPSHOT
+Created-By: OpenL WebStudio v.5.23.5-SNAPSHOT
 
