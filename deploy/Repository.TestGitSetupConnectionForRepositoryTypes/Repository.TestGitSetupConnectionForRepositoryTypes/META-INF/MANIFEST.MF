@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Repository.TestGitSetupConnectionForRepositoryTy
+ pes
+Build-Date: 2020-09-16T16:21:22.822+03:00
+Build-Branch: master
+Build-Number: c09a41ed6ce158bec39600ab44aec29aa5f84c58
+Implementation-Version: admin-2020-09-16_16-21-04
+Built-By: admin
+Created-By: OpenL WebStudio v.5.24.0-SNAPSHOT
+
