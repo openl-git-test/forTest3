@@ -1,9 +1,0 @@
-<descriptors>
-  <descriptor>
-    <repositoryId>design</repositoryId>
-    <path>DESIGN/rules/ProjectForDeploy</path>
-    <projectName>ProjectForDeploy</projectName>
-    <branch>master</branch>
-    <projectVersion>cffd2ee6ca03d04c2406c4ad6870241b060d6ac0</projectVersion>
-  </descriptor>
-</descriptors>
