@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: Repository.TestGitHttpToHttpsAndViceVersa
-Build-Date: 2021-04-30T13:07:41.559+03:00
+Build-Date: 2021-05-05T13:06:16.57+03:00
 Build-Branch: master
-Build-Number: 0cc9d7d3824992437d00bcab9e3462f68f8dc066
-Implementation-Version: admin-2021-04-30_13-07-23
+Build-Number: b8f7a934b3e1226f3225b29060596174fb44d1f3
+Implementation-Version: admin-2021-05-05_13-05-52
 Built-By: admin
 Created-By: OpenL WebStudio v.5.24.2-SNAPSHOT
 
